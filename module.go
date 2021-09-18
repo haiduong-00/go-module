@@ -10,5 +10,5 @@ func WriteHello() {
 
 // foo là private (chỉ có trong package, không xuất ra ngoài)
 func foo() {
-	fmt.Printl("foo")
+	fmt.Println("foo")
 }
