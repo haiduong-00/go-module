@@ -1,3 +1,8 @@
+// Thử nghiệm publish một module lên pkg.go.dev
+//
+// Cái này sẽ xuất hiện trong v0.3.0
+//
+// Ok
 package gomodule
 
 import "fmt"
