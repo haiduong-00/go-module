@@ -15,9 +15,10 @@ To go back to where you were, just check out the branch you were on again. (If y
 func WriteHello() {
 	fmt.Println("Hello")
 	fmt.Println("Tính năng mới: Viết doc nhiều dòng")
+	foo()
 }
 
-// foo là private (chỉ có trong package, không xuất ra ngoài)
+// foo là private (chỉ có trong package, không xuất ra ngoài (exported))
 func foo() {
 	fmt.Println("foo")
 }
