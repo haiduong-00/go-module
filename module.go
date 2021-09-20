@@ -14,7 +14,7 @@ To go back to where you were, just check out the branch you were on again. (If y
 */
 func WriteHello() {
 	foo()
-	fmt.Println("Hello")
+	fmt.Println("Hello.")
 	fmt.Println("Tính năng mới: Viết doc nhiều dòng")
 }
 
