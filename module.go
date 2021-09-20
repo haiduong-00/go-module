@@ -21,4 +21,5 @@ func WriteHello() {
 // foo là private (chỉ có trong package, không xuất ra ngoài (exported))
 func foo() {
 	fmt.Println("foo")
+	fmt.Println("Cập nhật v2 bằng cách tạo branch mới trong git")
 }
