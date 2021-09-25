@@ -5,7 +5,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/go-learn/TestnBench/join"
+	"github.com/haiduong-00/go-module/v2/join"
 )
 
 func TestCat(t *testing.T) {
